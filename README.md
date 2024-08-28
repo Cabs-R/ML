@@ -1,2 +1,2 @@
 # ML
-Beginner steps on Machine Learning
+In this repo you could find some examples of Machine Learning Algorithms
